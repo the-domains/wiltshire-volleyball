@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Wiltshire Volleyball]]></title>
         <description><![CDATA[Wiltshire Volleyball]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wiltshire-volleyball/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 10:18:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 10:19:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wiltshire-volleyball/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Portraits of Dogs as They Shake Off Water]]></title>
             <description><![CDATA[<article><h1>Portraits of Dogs as They Shake Off Water</h1><p>For her series " Shake", pet photographer Carli Davidson photographed curious portraits of dogs shaking off water. Use a fast shutter speed and you can capture all kinds of strange expressions on your dog's face. You can find the rest of the photographs in the series here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dccb8bf195de936f7fd6d736006e28abcefa5a63.jpg"></article>]]></description>
             <link>http://petapixel.com/2011/07/28/portraits-of-dogs-as-they-shake-off-water/</link>
             <guid isPermaLink="false">a18ba91a-a7cf-4779-b732-5d8185e81414</guid>
+            <pubDate>Fri, 20 May 2016 10:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google May Have Found a Way to Make the Real-World Web Work]]></title>
+            <description><![CDATA[<article><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f00415e118224ecabc9f288eafe337a9d94455.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/google-beacon-security-eddystone/</link>
+            <guid isPermaLink="false">e53845a0-6f32-483a-bf51-fdb91b73427d</guid>
             <pubDate>Fri, 20 May 2016 10:18:41 GMT</pubDate>
         </item>
     </channel>
